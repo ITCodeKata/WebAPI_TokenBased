@@ -1,10 +1,15 @@
 # WebAPI_TokenBased
 
-
 Step1: Install PostMan on chrome
+
+
 Step2: Run the application. Get end url (Ignore if no default page loads)
+
+
 Step3: Check for anonomus request (without authentication)
+
 http://localhost:55999/api/data/forall (Should work for all - correct the port)
+
 
 Step4.1: Admin access token generation http://localhost:55999/token
 Body: 
